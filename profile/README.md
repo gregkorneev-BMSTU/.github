@@ -20,3 +20,5 @@
 - [sem10-part1](https://github.com/gregkorneev-BMSTU/sem10-part1.git)
 - [sem12](https://github.com/gregkorneev-BMSTU/sem12.git)
 - [sem13](https://github.com/gregkorneev-BMSTU/sem13.git)
+
+- [Домашняя работа 1](https://github.com/gregkorneev/project1.git)
