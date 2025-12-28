@@ -8,7 +8,10 @@
 - [lab7-part2](https://github.com/gregkorneev-BMSTU/lab7-part2.git)
 - [lab8](https://github.com/gregkorneev-BMSTU/lab8.git)
 - [lab9](https://github.com/gregkorneev-BMSTU/lab9.git)
+- [lab10-case2](https://github.com/IU5-14B/lab10-case2.git)
 - [lab11-part1](https://github.com/gregkorneev-BMSTU/lab11-part1.git)
+- [lab11-part2](https://github.com/IU5-14B/lab11-part2.git)
+- [lab11-part3](https://github.com/IU5-14B/lab11-part3.git)
   
 `sem*` — семинары
 - [sem5-part2](https://github.com/gregkorneev-BMSTU/sem5-part2.git)
@@ -20,5 +23,8 @@
 - [sem10-part1](https://github.com/gregkorneev-BMSTU/sem10-part1.git)
 - [sem12](https://github.com/gregkorneev-BMSTU/sem12.git)
 - [sem13](https://github.com/gregkorneev-BMSTU/sem13.git)
+- [sem16](https://github.com/IU5-14B/sem16.git)
+- [sem17](https://github.com/IU5-14B/sem17.git)
+- [sem18](https://github.com/IU5-14B/sem18.git)
 
-- [Домашняя работа 1](https://github.com/gregkorneev/project1.git)
+[Домашняя работа 1](https://github.com/gregkorneev/project1.git)
