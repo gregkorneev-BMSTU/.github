@@ -26,5 +26,6 @@
 - [sem16](https://github.com/IU5-14B/sem16.git)
 - [sem17](https://github.com/IU5-14B/sem17.git)
 - [sem18](https://github.com/IU5-14B/sem18.git)
+- [sem19](https://github.com/gregkorneev-BMSTU/sem19.git)
 
 [Домашняя работа 1](https://github.com/gregkorneev/project1.git)
