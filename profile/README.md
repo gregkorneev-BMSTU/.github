@@ -1,12 +1,24 @@
-## Hi there 👋
+# gregkorneev-BMSTU
 
-<!--
+Организация для учебных проектов МГТУ им. Н.Э. Баумана
+Направление: Информатика и вычислительная техника
 
-**Here are some ideas to get you started:**
+## 📚 Дисциплины
+- Основы программирования (C++)
+- Алгоритмы и структуры данных
+- Численные методы
+- Машинное обучение
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🧪 Репозитории
+- `lab2_matrix-calculator` — матричные операции на C++
+- `lab1.2-rpn_calculator` — калькулятор ОПН
+- `sem*` — семинары
+- `lab*` — лабораторные работы
+
+## 🛠️ Стек
+- C++, Python
+- CMake
+- Git / GitHub
+- Linux / macOS
+
+---
