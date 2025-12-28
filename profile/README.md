@@ -1,4 +1,4 @@
-- `lab*` — лабораторные работы
+`lab*` — лабораторные работы
 - [lab1.2-rpn_calculator](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator.git)
 - [lab2_matrix-calculator](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator.git)
 - [lab4-part1](https://github.com/gregkorneev-BMSTU/lab4-part1.git)
@@ -10,7 +10,7 @@
 - [lab9](https://github.com/gregkorneev-BMSTU/lab9.git)
 - [lab11-part1](https://github.com/gregkorneev-BMSTU/lab11-part1.git)
   
-- `sem*` — семинары
+`sem*` — семинары
 - [sem5-part2](https://github.com/gregkorneev-BMSTU/sem5-part2.git)
 - [sem6](https://github.com/gregkorneev-BMSTU/sem6.git)
 - [sem7](https://github.com/gregkorneev-BMSTU/sem7.git)
