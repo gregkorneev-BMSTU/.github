@@ -29,3 +29,4 @@
 - [sem19](https://github.com/gregkorneev-BMSTU/sem19.git)
 
 [Домашняя работа 1](https://github.com/gregkorneev/project1.git)
+[Reports](https://github.com/gregkorneev-BMSTU/Reports.git) - Отчеты всех лабораторных работы и семинаров pdf + docx
