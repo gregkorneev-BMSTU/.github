@@ -1,5 +1,3 @@
-# gregkorneev-BMSTU
-
 ## 🧪 Репозитории
 - [sem5-part2](https://github.com/gregkorneev-BMSTU/sem5-part2.git)
 - [sem8](https://github.com/gregkorneev-BMSTU/sem8.git)
