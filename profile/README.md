@@ -1,3 +1,5 @@
+- `sem*` — семинары
+- `lab*` — лабораторные работы
 ## 🧪 Репозитории
 - [sem5-part2](https://github.com/gregkorneev-BMSTU/sem5-part2.git)
 - [sem8](https://github.com/gregkorneev-BMSTU/sem8.git)
@@ -18,5 +20,3 @@
 - [lab11-part1](https://github.com/gregkorneev-BMSTU/lab11-part1.git)
 - [lab2_matrix-calculator](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator.git)
 - [lab1.2-rpn_calculator](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator.git)
-- `sem*` — семинары
-- `lab*` — лабораторные работы
