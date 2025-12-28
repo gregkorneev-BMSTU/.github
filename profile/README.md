@@ -1,7 +1,7 @@
 # gregkorneev-BMSTU
 
 ## 🧪 Репозитории
-- `lab2_matrix-calculator` — матричные операции на C++
+- [lab2_matrix-calculator](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator.git)
 - `lab1.2-rpn_calculator` — калькулятор ОПН
 - `sem*` — семинары
 - `lab*` — лабораторные работы
