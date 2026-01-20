@@ -1,34 +1,51 @@
-`lab*` — лабораторные работы
-- [lab1.2-rpn_calculator](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator.git)
-- [lab2_matrix-calculator](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator.git)
-- [lab4-part1](https://github.com/gregkorneev-BMSTU/lab4-part1.git)
-- [lab4-part2](https://github.com/gregkorneev-BMSTU/lab4-part2.git)
-- [lab6](https://github.com/gregkorneev-BMSTU/lab6.git)
-- [lab7-part1](https://github.com/gregkorneev-BMSTU/lab7-part1.git)
-- [lab7-part2](https://github.com/gregkorneev-BMSTU/lab7-part2.git)
-- [lab8](https://github.com/gregkorneev-BMSTU/lab8.git)
-- [lab9](https://github.com/gregkorneev-BMSTU/lab9.git)
-- [lab10-case2](https://github.com/IU5-14B/lab10-case2.git)
-- [lab11-part1](https://github.com/gregkorneev-BMSTU/lab11-part1.git)
-- [lab11-part2](https://github.com/IU5-14B/lab11-part2.git)
-- [lab11-part3](https://github.com/IU5-14B/lab11-part3.git)
-  
-`sem*` — семинары
-- [sem5-part2](https://github.com/gregkorneev-BMSTU/sem5-part2.git)
-- [sem6](https://github.com/gregkorneev-BMSTU/sem6.git)
-- [sem7](https://github.com/gregkorneev-BMSTU/sem7.git)
-- [sem8](https://github.com/gregkorneev-BMSTU/sem8.git)
-- [sem9](https://github.com/gregkorneev-BMSTU/sem9.git)
-- [sem11](https://github.com/gregkorneev-BMSTU/sem11.git)
-- [sem10-part1](https://github.com/gregkorneev-BMSTU/sem10-part1.git)
-- [sem12](https://github.com/gregkorneev-BMSTU/sem12.git)
-- [sem13](https://github.com/gregkorneev-BMSTU/sem13.git)
-- [sem16](https://github.com/IU5-14B/sem16.git)
-- [sem17](https://github.com/IU5-14B/sem17.git)
-- [sem18](https://github.com/IU5-14B/sem18.git)
-- [sem19](https://github.com/gregkorneev-BMSTU/sem19.git)
+# Навигация по репозиториям
 
-[Домашняя работа 1](https://github.com/gregkorneev/project1.git)
+## labs
 
-- [Reports](https://github.com/gregkorneev-BMSTU/Reports.git) - Отчеты всех лабораторных работы и семинаров pdf + docx
-- [Tests](https://github.com/gregkorneev-BMSTU/Tests.git) - Все теоритические тесты за первый семестр
+| №  | Название | Ссылка |
+|---:|----------|:------:|
+| 1  | Лабораторная работа 1 (RPN calculator) | [Открыть](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator) |
+| 2  | Лабораторная работа 2 (Matrix calculator) | [Открыть](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator) |
+| 4  | Лабораторная работа 4 (часть 1) | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part1) |
+| 4  | Лабораторная работа 4 (часть 2) | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part2) |
+| 6  | Лабораторная работа 6 | [Открыть](https://github.com/gregkorneev-BMSTU/lab6) |
+| 7  | Лабораторная работа 7 (часть 1) | [Открыть](https://github.com/gregkorneev-BMSTU/lab7-part1) |
+| 7  | Лабораторная работа 7 (часть 2) | [Открыть](https://github.com/gregkorneev-BMSTU/lab7-part2) |
+| 8  | Лабораторная работа 8 | [Открыть](https://github.com/gregkorneev-BMSTU/lab8) |
+| 9  | Лабораторная работа 9 | [Открыть](https://github.com/gregkorneev-BMSTU/lab9) |
+| 10 | Лабораторная работа 10 (case 2) | [Открыть](https://github.com/IU5-14B/lab10-case2) |
+| 11 | Лабораторная работа 11 (ч.1) | [Открыть](https://github.com/gregkorneev-BMSTU/lab11-part1) |
+| 11 | Лабораторная работа 11 (ч.2) | [Открыть](https://github.com/IU5-14B/lab11-part2) |
+| 11 | Лабораторная работа 11 (ч.3) | [Открыть](https://github.com/IU5-14B/lab11-part3) |
+
+## sem
+
+| №  | Тема | Ссылка |
+|---:|------|:------:|
+| 5  | Семинар 5 (часть 2) | [Открыть](https://github.com/gregkorneev-BMSTU/sem5-part2) |
+| 6  | Семинар 6 | [Открыть](https://github.com/gregkorneev-BMSTU/sem6) |
+| 7  | Семинар 7 | [Открыть](https://github.com/gregkorneev-BMSTU/sem7) |
+| 8  | Семинар 8 | [Открыть](https://github.com/gregkorneev-BMSTU/sem8) |
+| 9  | Семинар 9 | [Открыть](https://github.com/gregkorneev-BMSTU/sem9) |
+| 10 | Семинар 10 (часть 1) | [Открыть](https://github.com/gregkorneev-BMSTU/sem10-part1) |
+| 11 | Семинар 11 | [Открыть](https://github.com/gregkorneev-BMSTU/sem11) |
+| 12 | Семинар 12 | [Открыть](https://github.com/gregkorneev-BMSTU/sem12) |
+| 13 | Семинар 13 | [Открыть](https://github.com/gregkorneev-BMSTU/sem13) |
+| 16 | Семинар 16 | [Открыть](https://github.com/IU5-14B/sem16) |
+| 17 | Семинар 17 | [Открыть](https://github.com/IU5-14B/sem17) |
+| 18 | Семинар 18 | [Открыть](https://github.com/IU5-14B/sem18) |
+| 19 | Семинар 19 | [Открыть](https://github.com/gregkorneev-BMSTU/sem19) |
+
+## homework
+
+### ML + crypto
+
+- [homework](https://github.com/gregkorneev/project1)
+
+## reports
+
+- [reports](https://github.com/gregkorneev-BMSTU/Reports) — Отчёты всех лабораторных и семинаров (pdf + docx)
+
+## tests
+
+- [tests](https://github.com/gregkorneev-BMSTU/Tests) — Теоретические тесты за 1 семестр
