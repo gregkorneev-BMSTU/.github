@@ -33,7 +33,7 @@
 <tr><td>7</td><td>Семинар 7</td><td><a href="https://github.com/gregkorneev-BMSTU/sem7">Открыть</a></td></tr>
 <tr><td>8</td><td>Семинар 8</td><td><a href="https://github.com/gregkorneev-BMSTU/sem8">Открыть</a></td></tr>
 <tr><td>9</td><td>Семинар 9</td><td><a href="https://github.com/gregkorneev-BMSTU/sem9">Открыть</a></td></tr>
-<tr><td>10</td><td>Семинар 10 (ч.1)</td><td><a href="https://github.com/gregkorneev-BMSTU/sem10-part1">Открыть</a></td></tr>
+<tr><td>10</td><td>Семинар 10.1</td><td><a href="https://github.com/gregkorneev-BMSTU/sem10-part1">Открыть</a></td></tr>
 <tr><td>11</td><td>Семинар 11</td><td><a href="https://github.com/gregkorneev-BMSTU/sem11">Открыть</a></td></tr>
 <tr><td>12</td><td>Семинар 12</td><td><a href="https://github.com/gregkorneev-BMSTU/sem12">Открыть</a></td></tr>
 <tr><td>13</td><td>Семинар 13</td><td><a href="https://github.com/gregkorneev-BMSTU/sem13">Открыть</a></td></tr>
@@ -46,7 +46,6 @@
 </td>
 </tr>
 </table>
-
 ## homework
 
 - [homework](https://github.com/gregkorneev/project1)
