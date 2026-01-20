@@ -25,7 +25,7 @@
 | 7  | Семинар 7 | [Открыть](https://github.com/gregkorneev-BMSTU/sem7) |
 | 8  | Семинар 8 | [Открыть](https://github.com/gregkorneev-BMSTU/sem8) |
 | 9  | Семинар 9 | [Открыть](https://github.com/gregkorneev-BMSTU/sem9) |
-| 10 | Семинар 10.2 | [Открыть](https://github.com/gregkorneev-BMSTU/sem10-part1) |
+| 10 | Семинар 10.1 | [Открыть](https://github.com/gregkorneev-BMSTU/sem10-part1) |
 | 11 | Семинар 11 | [Открыть](https://github.com/gregkorneev-BMSTU/sem11) |
 | 12 | Семинар 12 | [Открыть](https://github.com/gregkorneev-BMSTU/sem12) |
 | 13 | Семинар 13 | [Открыть](https://github.com/gregkorneev-BMSTU/sem13) |
@@ -44,7 +44,7 @@
 
 ## Lecture-Theory
 
-- [Lecture-Theory](https://github.com/gregkorneev-BMSTU/Lecture-Theory.git) — Все лекции и конспекты за 1 семестр
+- [Lecture-Theory](https://github.com/gregkorneev-BMSTU/Lecture-Theory) — Все лекции и конспекты за 1 семестр
 
 ## tests
 
