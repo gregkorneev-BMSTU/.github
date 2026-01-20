@@ -1,22 +1,20 @@
-# Навигация по репозиториям
-
 ## labs
 
 | №  | Название | Ссылка |
 |---:|----------|:------:|
-| 1  | Лабораторная работа 1 (RPN calculator) | [Открыть](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator) |
+| 1  | Лабораторная работа 1.2 (RPN calculator) | [Открыть](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator) |
 | 2  | Лабораторная работа 2 (Matrix calculator) | [Открыть](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator) |
-| 4  | Лабораторная работа 4 (часть 1) | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part1) |
-| 4  | Лабораторная работа 4 (часть 2) | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part2) |
+| 4  | Лабораторная работа 4.1  | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part1) |
+| 4  | Лабораторная работа 4.2 | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part2) |
 | 6  | Лабораторная работа 6 | [Открыть](https://github.com/gregkorneev-BMSTU/lab6) |
-| 7  | Лабораторная работа 7 (часть 1) | [Открыть](https://github.com/gregkorneev-BMSTU/lab7-part1) |
-| 7  | Лабораторная работа 7 (часть 2) | [Открыть](https://github.com/gregkorneev-BMSTU/lab7-part2) |
+| 7  | Лабораторная работа 7.1 | [Открыть](https://github.com/gregkorneev-BMSTU/lab7-part1) |
+| 7  | Лабораторная работа 7.2 | [Открыть](https://github.com/gregkorneev-BMSTU/lab7-part2) |
 | 8  | Лабораторная работа 8 | [Открыть](https://github.com/gregkorneev-BMSTU/lab8) |
 | 9  | Лабораторная работа 9 | [Открыть](https://github.com/gregkorneev-BMSTU/lab9) |
-| 10 | Лабораторная работа 10 (case 2) | [Открыть](https://github.com/IU5-14B/lab10-case2) |
-| 11 | Лабораторная работа 11 (ч.1) | [Открыть](https://github.com/gregkorneev-BMSTU/lab11-part1) |
-| 11 | Лабораторная работа 11 (ч.2) | [Открыть](https://github.com/IU5-14B/lab11-part2) |
-| 11 | Лабораторная работа 11 (ч.3) | [Открыть](https://github.com/IU5-14B/lab11-part3) |
+| 10 | Лабораторная работа 10-case 2 | [Открыть](https://github.com/IU5-14B/lab10-case2) |
+| 11 | Лабораторная работа 11.1 | [Открыть](https://github.com/gregkorneev-BMSTU/lab11-part1) |
+| 11 | Лабораторная работа 11.2 | [Открыть](https://github.com/IU5-14B/lab11-part2) |
+| 11 | Лабораторная работа 11.3 | [Открыть](https://github.com/IU5-14B/lab11-part3) |
 
 ## sem
 
@@ -37,8 +35,6 @@
 | 19 | Семинар 19 | [Открыть](https://github.com/gregkorneev-BMSTU/sem19) |
 
 ## homework
-
-### ML + crypto
 
 - [homework](https://github.com/gregkorneev/project1)
 
