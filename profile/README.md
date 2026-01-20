@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<h2>labs</h2>
+<h2 align="center">labs</h2>
 
 <table>
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
@@ -24,7 +24,7 @@
 </td>
 <td valign="top" width="50%">
 
-<h2>sem</h2>
+<h2 align="center">sem</h2>
 
 <table>
 <tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
