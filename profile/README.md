@@ -2,8 +2,8 @@
 
 | №  | Название | Ссылка |
 |---:|----------|:------:|
-| 1  | Лабораторная работа 1.2 - RPN calculator | [Открыть](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator) |
-| 2  | Лабораторная работа 2 - Matrix calculator | [Открыть](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator) |
+| 1  | Лабораторная работа 1.2 | [Открыть](https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator) |
+| 2  | Лабораторная работа 2| [Открыть](https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator) |
 | 4  | Лабораторная работа 4.1  | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part1) |
 | 4  | Лабораторная работа 4.2 | [Открыть](https://github.com/gregkorneev-BMSTU/lab4-part2) |
 | 6  | Лабораторная работа 6 | [Открыть](https://github.com/gregkorneev-BMSTU/lab6) |
