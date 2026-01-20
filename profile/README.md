@@ -42,6 +42,10 @@
 
 - [reports](https://github.com/gregkorneev-BMSTU/Reports) — Отчёты всех лабораторных и семинаров (pdf + docx)
 
+## Lecture-Theory
+
+- [Lecture-Theory](https://github.com/gregkorneev-BMSTU/Lecture-Theory.git) — Все лекции и конспекты за 1 семестр
+
 ## tests
 
 - [tests](https://github.com/gregkorneev-BMSTU/Tests) — Теоретические тесты за 1 семестр
