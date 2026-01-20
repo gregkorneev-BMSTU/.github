@@ -49,7 +49,7 @@
 
 ## homework
 
-- [homework](https://github.com/gregkorneev/project1)
+- [project1](https://github.com/gregkorneev/project1)
 
 ## reports
 
