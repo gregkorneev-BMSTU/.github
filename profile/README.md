@@ -56,7 +56,7 @@
 
 <td valign="top" width="50%">
 
-<h3 align="center">Labs — S1</h3>
+<h3 align="center">lab</h3>
 
 <table>
 
@@ -144,7 +144,7 @@
 
 <td valign="top" width="50%">
 
-<h3 align="center">Sem — S1</h3>
+<h3 align="center">sem</h3>
 
 <table>
 
