@@ -221,9 +221,6 @@
 </tr>
 </table>
 
-</details>
-
-
 # 📚Архив ОП
 
 <details>
@@ -243,5 +240,7 @@
 ---
 
 ### [Тесты ОП](https://github.com/gregkorneev-BMSTU/Tests)
+
+</details>
 
 </details>
