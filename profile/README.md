@@ -46,7 +46,7 @@
 
 <details>
 
-<summary><b>📦Архив первого семестра</b></summary>
+<summary><b>📦 Архив первого семестра</b></summary>
 
 <br>
 
