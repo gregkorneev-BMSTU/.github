@@ -233,6 +233,32 @@
 </tr>
 </table>
 
+<summary><b>Открыть ресурсы</b></summary>
+
+<br>
+
+### homework
+
+- [project1](https://github.com/gregkorneev/project1)
+
+---
+
+### reports
+
+- [reports](https://github.com/gregkorneev-BMSTU/Reports)
+
+---
+
+### Lecture-Theory
+
+- [Lecture-Theory](https://github.com/gregkorneev-BMSTU/Lecture-Theory)
+
+---
+
+### tests
+
+- [tests](https://github.com/gregkorneev-BMSTU/Tests)
+
 </details>
 
 ---
