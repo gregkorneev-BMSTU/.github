@@ -239,12 +239,8 @@
 
 <summary><b>Открыть ресурсы</b></summary>
 
-### homework
-
-- [project1](https://github.com/gregkorneev/project1)
-
+### [Домашняя работа 1 семестр](https://github.com/gregkorneev/project1)
 ---
-
 ### reports
 
 - [reports](https://github.com/gregkorneev-BMSTU/Reports)
