@@ -1,100 +1,247 @@
-# IU5-14B — Archive
-
-Этот вариант оформлен как **витрина**: основной фокус на втором семестре, затем идут краткие каталоги по категориям и свёрнутый архив первого семестра. Такой формат удобен, когда текущие активные работы принадлежат второму семестру, а первый семестр становится фоном.
-
-## Semester 2
-
-<table>
-<tr>
-  <td valign="top" width="50%">
-
-  <h3 align="center">Labs — S2</h3>
-
-  <table>
-  <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
-  <!-- AUTOGEN:S2_LABS:START -->
-  <!-- AUTOGEN:S2_LABS:END -->
-  </table>
-
-  </td>
-  <td valign="top" width="50%">
-
-  <h3 align="center">Sem — S2</h3>
-
-  <table>
-  <tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
-  <!-- AUTOGEN:S2_SEMS:START -->
-  <!-- AUTOGEN:S2_SEMS:END -->
-  </table>
-
-  </td>
-</tr>
-</table>
-
-### Каталог
-
-Дополнительные материалы, связанные со вторым семестром, можно вынести в компактный каталог:
-
-- **Projects:** [s2_project‑demo](https://github.com/your-org/s2_project-demo)
-- **Exams:** [s2_exam‑demo](https://github.com/your-org/s2_exam-demo)
-- **Utils:** [s2_utils‑demo](https://github.com/your-org/s2_utils-demo)
-- **Templates:** [s2_template‑demo](https://github.com/your-org/s2_template-demo)
-
-Категории можно расширять или переименовывать под свои нужды: проекты, экзамены, презентации, шаблоны и т. п.
-
----
-
-## Semester 1
-
-<details>
-<summary><b>Открыть архив первого семестра</b></summary>
+# Semester 2
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-<h3 align="center">labs</h3>
+<h3 align="center">Labs — S2</h3>
 
 <table>
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
-<tr><td>1</td><td>Лабораторная работа 1.2</td><td><a href="https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator">Открыть</a></td></tr>
-<tr><td>2</td><td>Лабораторная работа 2</td><td><a href="https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator">Открыть</a></td></tr>
-<tr><td>4</td><td>Лабораторная работа 4.1</td><td><a href="https://github.com/gregkorneev-BMSTU/lab4-part1">Открыть</a></td></tr>
-<tr><td>4</td><td>Лабораторная работа 4.2</td><td><a href="https://github.com/gregkorneev-BMSTU/lab4-part2">Открыть</a></td></tr>
-<tr><td>6</td><td>Лабораторная работа 6</td><td><a href="https://github.com/gregkorneev-BMSTU/lab6">Открыть</a></td></tr>
-<tr><td>7</td><td>Лабораторная работа 7.1</td><td><a href="https://github.com/gregkorneev-BMSTU/lab7-part1">Открыть</a></td></tr>
-<tr><td>7</td><td>Лабораторная работа 7.2</td><td><a href="https://github.com/gregkorneev-BMSTU/lab7-part2">Открыть</a></td></tr>
-<tr><td>8</td><td>Лабораторная работа 8</td><td><a href="https://github.com/gregkorneev-BMSTU/lab8">Открыть</a></td></tr>
-<tr><td>9</td><td>Лабораторная работа 9</td><td><a href="https://github.com/gregkorneev-BMSTU/lab9">Открыть</a></td></tr>
-<tr><td>10</td><td>Лабораторная работа 10 (case 2)</td><td><a href="https://github.com/IU5-14B/lab10-case2">Открыть</a></td></tr>
-<tr><td>11</td><td>Лабораторная работа 11.1</td><td><a href="https://github.com/gregkorneev-BMSTU/lab11-part1">Открыть</a></td></tr>
-<tr><td>11</td><td>Лабораторная работа 11.2</td><td><a href="https://github.com/IU5-14B/lab11-part2">Открыть</a></td></tr>
-<tr><td>11</td><td>Лабораторная работа 11.3</td><td><a href="https://github.com/IU5-14B/lab11-part3">Открыть</a></td></tr>
+
+<!-- AUTOGEN:S2_LABS:START -->
+<tr>
+<td colspan="3">
+<i>Автоматически генерируется</i>
+</td>
+</tr>
+<!-- AUTOGEN:S2_LABS:END -->
+
 </table>
 
 </td>
+
 <td valign="top" width="50%">
 
-<h3 align="center">sem</h3>
+<h3 align="center">Sem — S2</h3>
 
 <table>
 <tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
-<tr><td>5</td><td>Семинар 5.2</td><td><a href="https://github.com/gregkorneev-BMSTU/sem5-part2">Открыть</a></td></tr>
-<tr><td>6</td><td>Семинар 6</td><td><a href="https://github.com/gregkorneev-BMSTU/sem6">Открыть</a></td></tr>
-<tr><td>7</td><td>Семинар 7</td><td><a href="https://github.com/gregkorneev-BMSTU/sem7">Открыть</a></td></tr>
-<tr><td>8</td><td>Семинар 8</td><td><a href="https://github.com/gregkorneev-BMSTU/sem8">Открыть</a></td></tr>
-<tr><td>9</td><td>Семинар 9</td><td><a href="https://github.com/gregkorneev-BMSTU/sem9">Открыть</a></td></tr>
-<tr><td>10</td><td>Семинар 10.1</td><td><a href="https://github.com/gregkorneev-BMSTU/sem10-part1">Открыть</a></td></tr>
-<tr><td>11</td><td>Семинар 11</td><td><a href="https://github.com/gregkorneev-BMSTU/sem11">Открыть</a></td></tr>
-<tr><td>12</td><td>Семинар 12</td><td><a href="https://github.com/gregkorneev-BMSTU/sem12">Открыть</a></td></tr>
-<tr><td>13</td><td>Семинар 13</td><td><a href="https://github.com/gregkorneev-BMSTU/sem13">Открыть</a></td></tr>
-<tr><td>16</td><td>Семинар 16</td><td><a href="https://github.com/IU5-14B/sem16">Открыть</a></td></tr>
-<tr><td>17</td><td>Семинар 17</td><td><a href="https://github.com/IU5-14B/sem17">Открыть</a></td></tr>
-<tr><td>18</td><td>Семинар 18</td><td><a href="https://github.com/IU5-14B/sem18">Открыть</a></td></tr>
-<tr><td>19</td><td>Семинар 19</td><td><a href="https://github.com/gregkorneev-BMSTU/sem19">Открыть</a></td></tr>
+
+<!-- AUTOGEN:S2_SEMS:START -->
+<tr>
+<td colspan="3">
+<i>Автоматически генерируется</i>
+</td>
+</tr>
+<!-- AUTOGEN:S2_SEMS:END -->
+
 </table>
 
 </td>
+</tr>
+</table>
+
+---
+
+# Каталог
+
+Дополнительные материалы второго семестра:
+
+- Projects
+- Exams
+- Utils
+- Templates
+
+---
+
+# Semester 1
+
+<details>
+
+<summary><b>Открыть архив первого семестра</b></summary>
+
+<br>
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+<h3 align="center">Labs — S1</h3>
+
+<table>
+
+<tr>
+<td>1</td>
+<td>Лабораторная работа 1.2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab1.2-rpn_calculator">Открыть</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Лабораторная работа 2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab2_matrix-calculator">Открыть</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Лабораторная работа 4.1</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab4-part1">Открыть</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Лабораторная работа 4.2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab4-part2">Открыть</a></td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Лабораторная работа 6</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab6">Открыть</a></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Лабораторная работа 7.1</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab7-part1">Открыть</a></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Лабораторная работа 7.2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab7-part2">Открыть</a></td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Лабораторная работа 8</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab8">Открыть</a></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Лабораторная работа 9</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab9">Открыть</a></td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Лабораторная работа 10</td>
+<td><a href="https://github.com/IU5-14B/lab10-case2">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Лабораторная работа 11.1</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab11-part1">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Лабораторная работа 11.2</td>
+<td><a href="https://github.com/IU5-14B/lab11-part2">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Лабораторная работа 11.3</td>
+<td><a href="https://github.com/IU5-14B/lab11-part3">Открыть</a></td>
+</tr>
+
+</table>
+
+</td>
+
+<td valign="top" width="50%">
+
+<h3 align="center">Sem — S1</h3>
+
+<table>
+
+<tr>
+<td>5</td>
+<td>Семинар 5.2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem5-part2">Открыть</a></td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Семинар 6</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem6">Открыть</a></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Семинар 7</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem7">Открыть</a></td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Семинар 8</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem8">Открыть</a></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Семинар 9</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem9">Открыть</a></td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Семинар 10.1</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem10-part1">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Семинар 11</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem11">Открыть</a></td>
+</tr>
+
+<tr>
+<td>12</td>
+<td>Семинар 12</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem12">Открыть</a></td>
+</tr>
+
+<tr>
+<td>13</td>
+<td>Семинар 13</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem13">Открыть</a></td>
+</tr>
+
+<tr>
+<td>16</td>
+<td>Семинар 16</td>
+<td><a href="https://github.com/IU5-14B/sem16">Открыть</a></td>
+</tr>
+
+<tr>
+<td>17</td>
+<td>Семинар 17</td>
+<td><a href="https://github.com/IU5-14B/sem17">Открыть</a></td>
+</tr>
+
+<tr>
+<td>18</td>
+<td>Семинар 18</td>
+<td><a href="https://github.com/IU5-14B/sem18">Открыть</a></td>
+</tr>
+
+<tr>
+<td>19</td>
+<td>Семинар 19</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/sem19">Открыть</a></td>
+</tr>
+
+</table>
+
+</td>
+
 </tr>
 </table>
 
@@ -102,18 +249,41 @@
 
 ---
 
-## homework
+# 📚 Resources & Archive
+
+<details>
+
+<summary><b>Открыть ресурсы</b></summary>
+
+<br>
+
+### homework
 
 - [project1](https://github.com/gregkorneev/project1)
 
-## reports
+---
 
-- [reports](https://github.com/gregkorneev-BMSTU/Reports) — Отчёты всех лабораторных и семинаров (pdf + docx)
+### reports
 
-## Lecture-Theory
+- [reports](https://github.com/gregkorneev-BMSTU/Reports)
 
-- [Lecture-Theory](https://github.com/gregkorneev-BMSTU/Lecture-Theory) — Все лекции и конспекты за 1 семестр
+---
 
-## tests
+### Lecture-Theory
 
-- [tests](https://github.com/gregkorneev-BMSTU/Tests) — Теоретические тесты за 1 семестр
+- [Lecture-Theory](https://github.com/gregkorneev-BMSTU/Lecture-Theory)
+
+---
+
+### tests
+
+- [tests](https://github.com/gregkorneev-BMSTU/Tests)
+
+</details>
+
+---
+
+# Author
+
+Grigoriy Korneev
+BMSTU IU5-14B
