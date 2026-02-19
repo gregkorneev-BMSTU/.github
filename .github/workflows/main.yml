@@ -1,0 +1,49 @@
+name: Autogenerate README
+
+on:
+
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run generator
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ORG: ${{ github.repository_owner }}
+
+        run: |
+
+          python .github/scripts/gen_tables.py
+
+      - name: Commit
+
+        run: |
+
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add .
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "update readme"
+
+          git push
