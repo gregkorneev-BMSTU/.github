@@ -241,19 +241,11 @@
 
 ### [Домашняя работа 1 семестр](https://github.com/gregkorneev/project1)
 ---
-### reports
-
-- [reports](https://github.com/gregkorneev-BMSTU/Reports)
-
+### [Отчеты ОП](https://github.com/gregkorneev-BMSTU/Reports)
 ---
 
 ### [Лекции ОП](https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git)
 ---
-
-### tests
-
-- [tests](https://github.com/gregkorneev-BMSTU/Tests)
-
+### - [Тесты ОП](https://github.com/gregkorneev-BMSTU/Tests)
 </details>
-
 ---
