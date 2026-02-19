@@ -232,12 +232,6 @@
 </tr>
 </table>
 
-# 📚Архив ОП
-
-<details>
-
-<summary><b>Открыть</b></summary>
-
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -268,7 +262,5 @@
 </tr>
 
 </table>
-
-</details>
 
 </details>
