@@ -233,8 +233,6 @@
 </tr>
 </table>
 
-<summary><b>Открыть ресурсы</b></summary>
-
 <br>
 
 ### homework
