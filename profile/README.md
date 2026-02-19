@@ -258,7 +258,7 @@
 
 <tr>
 <td>Тесты ОП</td>
-<td><a href="https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git">Открыть</a></td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Tests-1.git">Открыть</a></td>
 </tr>
 
 </table>
