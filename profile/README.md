@@ -242,7 +242,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<h3 align="center">lab</h3>
+<h3 align="center"></h3>
 
 <table>
 <th>Название</th><th>Ссылка</th></tr>
@@ -252,11 +252,6 @@
 <td><a href="https://github.com/gregkorneev/project1">Открыть</a></td>
 </tr>
 
-<tr>
-<td>2</td>
-<td>Лабораторная работа 2</td>
-<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab2.git">Открыть</a></td>
-</tr>
 
 </table>
 
