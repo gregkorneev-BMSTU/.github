@@ -252,6 +252,21 @@
 <td><a href="https://github.com/gregkorneev/project1">Открыть</a></td>
 </tr>
 
+<tr>
+<td>Отчеты ОП</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Reports-1_OP.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>Лекции ОП</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>Тесты ОП</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git">Открыть</a></td>
+</tr>
+
 
 </table>
 
