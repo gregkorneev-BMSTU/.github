@@ -239,8 +239,6 @@
 
 <summary><b>Открыть ресурсы</b></summary>
 
-<br>
-
 ### homework
 
 - [project1](https://github.com/gregkorneev/project1)
