@@ -270,8 +270,3 @@
 </details>
 
 ---
-
-# Author
-
-Grigoriy Korneev
-BMSTU IU5-14B
