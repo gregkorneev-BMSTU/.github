@@ -233,8 +233,6 @@
 </tr>
 </table>
 
-<br>
-
 ### homework
 
 - [project1](https://github.com/gregkorneev/project1)
