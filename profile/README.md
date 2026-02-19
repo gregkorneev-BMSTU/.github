@@ -15,6 +15,13 @@
 <td>Лабораторная работа 1</td>
 <td><a href="https://github.com/gregkorneev-BMSTU/s2_lab1.git">Открыть</a></td>
 </tr>
+
+<tr>
+<td>2</td>
+<td>Лабораторная работа 2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab2.git">Открыть</a></td>
+</tr>
+
 </table>
 
 </td>
