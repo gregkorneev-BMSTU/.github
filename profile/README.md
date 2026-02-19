@@ -9,13 +9,7 @@
 <table>
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
 
-<!-- AUTOGEN:S2_LABS:START -->
-<tr>
-<td colspan="3">
-<i>Автоматически генерируется</i>
-</td>
-</tr>
-<!-- AUTOGEN:S2_LABS:END -->
+<!-- Добавляй лабораторные второго семестра сюда -->
 
 </table>
 
@@ -28,13 +22,7 @@
 <table>
 <tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
 
-<!-- AUTOGEN:S2_SEMS:START -->
-<tr>
-<td colspan="3">
-<i>Автоматически генерируется</i>
-</td>
-</tr>
-<!-- AUTOGEN:S2_SEMS:END -->
+<!-- Добавляй семинары второго семестра сюда -->
 
 </table>
 
@@ -233,6 +221,9 @@
 </tr>
 </table>
 
+</details>
+
+
 # 📚Архив ОП
 
 <details>
@@ -240,11 +231,17 @@
 <summary><b>Открыть</b></summary>
 
 ### [Домашняя работа 1 семестр](https://github.com/gregkorneev/project1)
+
 ---
+
 ### [Отчеты ОП](https://github.com/gregkorneev-BMSTU/Reports-1_OP.git)
+
 ---
+
 ### [Лекции ОП](https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git)
+
 ---
+
 ### [Тесты ОП](https://github.com/gregkorneev-BMSTU/Tests)
 
 </details>
