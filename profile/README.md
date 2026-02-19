@@ -4,7 +4,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<h3 align="center">Labs — S2</h3>
+<h3 align="center">lab</h3>
 
 <table>
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
@@ -23,7 +23,7 @@
 
 <td valign="top" width="50%">
 
-<h3 align="center">Sem — S2</h3>
+<h3 align="center">sem</h3>
 
 <table>
 <tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
@@ -233,11 +233,11 @@
 </tr>
 </table>
 
-# 📚 Resources & Archive
+# 📚Архив ОП
 
 <details>
 
-<summary><b>Открыть ресурсы</b></summary>
+<summary><b>Открыть</b></summary>
 
 ### [Домашняя работа 1 семестр](https://github.com/gregkorneev/project1)
 ---
