@@ -246,6 +246,6 @@
 
 ### [Лекции ОП](https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git)
 ---
-### - [Тесты ОП](https://github.com/gregkorneev-BMSTU/Tests)
+### [Тесты ОП](https://github.com/gregkorneev-BMSTU/Tests)
+
 </details>
----
