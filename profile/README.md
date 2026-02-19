@@ -238,6 +238,28 @@
 
 <summary><b>Открыть</b></summary>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3 align="center">lab</h3>
+
+<table>
+<th>Название</th><th>Ссылка</th></tr>
+
+<tr>
+<td>Домашняя работа 1 семестр</td>
+<td><a href="https://github.com/gregkorneev/project1">Открыть</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Лабораторная работа 2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab2.git">Открыть</a></td>
+</tr>
+
+</table>
+
 ### [Домашняя работа 1 семестр](https://github.com/gregkorneev/project1)
 ### [Отчеты ОП](https://github.com/gregkorneev-BMSTU/Reports-1_OP.git)
 ### [Лекции ОП](https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git)
