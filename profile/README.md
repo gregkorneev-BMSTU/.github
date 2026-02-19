@@ -42,18 +42,6 @@
 </tr>
 </table>
 
----
-
-# Каталог
-
-Дополнительные материалы второго семестра:
-
-- Projects
-- Exams
-- Utils
-- Templates
-
----
 
 # Semester 1
 
