@@ -1,4 +1,4 @@
-# IU5-14B — Archive (Демо C)
+# IU5-14B — Archive
 
 Этот вариант оформлен как **витрина**: основной фокус на втором семестре, затем идут краткие каталоги по категориям и свёрнутый архив первого семестра. Такой формат удобен, когда текущие активные работы принадлежат второму семестру, а первый семестр становится фоном.
 
@@ -9,26 +9,24 @@
   <td valign="top" width="50%">
 
   <h3 align="center">Labs — S2</h3>
-  
+
   <table>
   <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
-  <tr><td>1</td><td>Лабораторная 2.1</td><td><a href="https://github.com/your-org/s2_lab01">Открыть</a></td></tr>
-  <tr><td>2</td><td>Лабораторная 2.2</td><td><a href="https://github.com/your-org/s2_lab02">Открыть</a></td></tr>
-  <!-- дополняйте при появлении новых s2_lab* -->
+  <!-- AUTOGEN:S2_LABS:START -->
+  <!-- AUTOGEN:S2_LABS:END -->
   </table>
-  
+
   </td>
   <td valign="top" width="50%">
 
   <h3 align="center">Sem — S2</h3>
-  
+
   <table>
   <tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
-  <tr><td>1</td><td>Семинар 2.1</td><td><a href="https://github.com/your-org/s2_sem01">Открыть</a></td></tr>
-  <tr><td>2</td><td>Семинар 2.2</td><td><a href="https://github.com/your-org/s2_sem02">Открыть</a></td></tr>
-  <!-- дополняйте при появлении новых s2_sem* -->
+  <!-- AUTOGEN:S2_SEMS:START -->
+  <!-- AUTOGEN:S2_SEMS:END -->
   </table>
-  
+
   </td>
 </tr>
 </table>

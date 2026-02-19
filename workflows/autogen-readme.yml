@@ -1,0 +1,50 @@
+name: Autogenerate README (S2 tables)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *" # daily 06:00 UTC
+  push:
+    paths:
+      - "README.md"
+      - ".github/scripts/gen_tables.py"
+      - ".github/workflows/autogen-readme.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: autogen-readme
+  cancel-in-progress: true
+
+jobs:
+  autogen:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate tables into README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ORG: ${{ github.repository_owner }}
+          README_PATH: README.md
+        run: |
+          python .github/scripts/gen_tables.py
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: autogen S2 labs/sems tables"
+          git push
