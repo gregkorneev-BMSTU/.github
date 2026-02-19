@@ -41,6 +41,7 @@
 </tr>
 </table>
 
+### [Лекции](https://github.com/gregkorneev-BMSTU/Lecture-2.git)
 
 # Семестр 1
 
