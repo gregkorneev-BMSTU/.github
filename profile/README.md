@@ -44,7 +44,7 @@
 <tr>
 <td>2</td>
 <td>Семинар 2</td>
-<td><a href="https://github.com/IU5-14B/s2_sem2.git">Открыть</a></td>
+<td><a href="https://github.com/gregkorneev-BMSTU/s2_sem2.git">Открыть</a></td>
 </tr>
 
 </table>
