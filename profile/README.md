@@ -47,6 +47,12 @@
 <td><a href="https://github.com/gregkorneev-BMSTU/s2_sem2.git">Открыть</a></td>
 </tr>
 
+<tr>
+<td>2</td>
+<td>Семинар 3</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/s2_sem3.git">Открыть</a></td>
+</tr>
+
 </table>
 
 </td>
