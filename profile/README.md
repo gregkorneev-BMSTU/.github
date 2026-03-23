@@ -22,6 +22,12 @@
 <td><a href="https://github.com/gregkorneev-BMSTU/s2_lab2.git">Открыть</a></td>
 </tr>
 
+<tr>
+<td>3</td>
+<td>WEB-AGENT</td>
+<td><a href="https://github.com/IU5-14B/web-agency">Открыть</a></td>
+</tr>
+
 </table>
 
 </td>
