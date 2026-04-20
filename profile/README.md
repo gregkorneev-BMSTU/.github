@@ -23,9 +23,15 @@
 </tr>
 
 <tr>
-<td>3</td>
+<td>3,4,5,6</td>
 <td>WEB-AGENT</td>
 <td><a href="https://github.com/IU5-14B/web-agency">Открыть</a></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Лабораторная работа 7</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab7.git">Открыть</a></td>
 </tr>
 
 </table>
