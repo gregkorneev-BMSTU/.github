@@ -23,7 +23,7 @@
 </tr>
 
 <tr>
-<td>3,4,5,6</td>
+<td>3-6</td>
 <td>WEB-AGENT</td>
 <td><a href="https://github.com/IU5-14B/web-agency">Открыть</a></td>
 </tr>
