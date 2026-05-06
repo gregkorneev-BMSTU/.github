@@ -37,7 +37,7 @@
 <tr>
 <td>8</td>
 <td>DB_MVP</td>
-<td><a href="https://github.com/IU5-14B/DB_MVP.git">Открыть</a></td>
+<td><a href="https://github.com/IU5-14B/DB_MVP_demo.git">Открыть</a></td>
 </tr>
 
 </table>
