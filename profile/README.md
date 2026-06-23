@@ -1,5 +1,9 @@
 # Семестр 2
 
+<summary><b>📦 Архив второго семестра</b></summary>
+
+<br>
+
 <table>
 <tr>
 <td valign="top" width="50%">
