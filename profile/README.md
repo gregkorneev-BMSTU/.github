@@ -105,7 +105,7 @@
 ### 📚 [Лекции](https://github.com/gregkorneev-BMSTU/Lecture-2.git)
 ### 📚 [Отчеты](https://github.com/gregkorneev-BMSTU/report-2.git)
 ### 💻 [АСОИУ](https://github.com/gregkorneev-BMSTU/ASOIU.git)
-
+### 💻 [АСОИУ-отчеты](https://github.com/gregkorneev-BMSTU/ASOIU_report.git)
 
 # Семестр 1
 
