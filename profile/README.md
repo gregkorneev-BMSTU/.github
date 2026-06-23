@@ -116,37 +116,52 @@
 <tr>
 <td valign="top" width="50%">
 
-<h3 align="center">lab</h3>
+<h3 align="center"> </h3>
 
 <table>
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
 
 <tr>
 <td>1</td>
-<td>Лабораторная работа 1</td>
-<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab1.git">Открыть</a></td>
+<td>ДЗ-2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/s2_project2.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Лекции ПКШ</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Lecture-2.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Отчеты ПКШ</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/report-2.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>АСОИУ</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/ASOIU.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>АСОИУ-отчеты</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/ASOIU_report.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Linux Практика</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Linux_practice2026.git">Открыть</a></td>
 </tr>
 
 </table>
 
 </td>
 
-
-### [ДЗ-2](https://github.com/gregkorneev-BMSTU/s2_project2.git)
-
-### 📚 [Лекции](https://github.com/gregkorneev-BMSTU/Lecture-2.git)
-
-### 📚 [Отчеты](https://github.com/gregkorneev-BMSTU/report-2.git)
-
-### 💻 [АСОИУ](https://github.com/gregkorneev-BMSTU/ASOIU.git)
-
-### 💻 [АСОИУ-отчеты](https://github.com/gregkorneev-BMSTU/ASOIU_report.git)
-
-### 💻 [Linux Практика](https://github.com/gregkorneev-BMSTU/Linux_practice2026.git)
-
 </table>
-
-
 
 </details>
 
