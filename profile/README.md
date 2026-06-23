@@ -103,6 +103,7 @@
 
 ### [ДЗ-2](https://github.com/gregkorneev-BMSTU/s2_project2.git)
 ### 📚 [Лекции](https://github.com/gregkorneev-BMSTU/Lecture-2.git)
+### 📚 [Отчеты](https://github.com/gregkorneev-BMSTU/report-2.git)
 ### 💻 [АСОИУ](https://github.com/gregkorneev-BMSTU/ASOIU.git)
 
 
