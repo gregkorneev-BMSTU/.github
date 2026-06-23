@@ -106,8 +106,7 @@
 ### 📚 [Отчеты](https://github.com/gregkorneev-BMSTU/report-2.git)
 ### 💻 [АСОИУ](https://github.com/gregkorneev-BMSTU/ASOIU.git)
 ### 💻 [АСОИУ-отчеты](https://github.com/gregkorneev-BMSTU/ASOIU_report.git)
-### 💻 [Linux Практика
-](https://github.com/gregkorneev-BMSTU/Linux_practice2026.git)
+### 💻 [Linux Практика](https://github.com/gregkorneev-BMSTU/Linux_practice2026.git)
 
 # Семестр 1
 
