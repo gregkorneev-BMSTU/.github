@@ -106,6 +106,34 @@
 
 <br>
 
+
+
+
+
+
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3 align="center">lab</h3>
+
+<table>
+<tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
+
+<tr>
+<td>1</td>
+<td>Лабораторная работа 1</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab1.git">Открыть</a></td>
+</tr>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
 ### [ДЗ-2](https://github.com/gregkorneev-BMSTU/s2_project2.git)
 
 ### 📚 [Лекции](https://github.com/gregkorneev-BMSTU/Lecture-2.git)
