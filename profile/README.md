@@ -144,6 +144,10 @@
 
 ### 💻 [Linux Практика](https://github.com/gregkorneev-BMSTU/Linux_practice2026.git)
 
+</table>
+
+
+
 </details>
 
 
