@@ -127,9 +127,9 @@
 <td><a href="https://github.com/gregkorneev-BMSTU/s2_lab1.git">Открыть</a></td>
 </tr>
 
-</td>
-</tr>
 </table>
+
+</td>
 
 
 ### [ДЗ-2](https://github.com/gregkorneev-BMSTU/s2_project2.git)
