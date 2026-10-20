@@ -1,8 +1,5 @@
 # Семестр 3
 
-
-# Семестр 3
-
 <table>
 <tr>
 <td valign="top" width="50%">
