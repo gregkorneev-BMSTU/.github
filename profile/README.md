@@ -1,7 +1,11 @@
 # Семестр 3
 
+
+# Семестр 3
+
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 <h3 align="center">lab PCPL</h3>
@@ -30,6 +34,24 @@
 </table>
 
 </td>
+
+<td valign="top" width="50%">
+
+<h3 align="center">Data Models</h3>
+
+<table>
+<tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
+
+<tr>
+<td>1.2</td>
+<td>Лабораторная работа 1.2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Data-Models_Lab1.2">Открыть</a></td>
+</tr>
+
+</table>
+
+</td>
+
 </tr>
 </table>
 
