@@ -1,5 +1,42 @@
 # Семестр 3
 
+
+# Семестр 3
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3 align="center">lab PCPL</h3>
+
+<table>
+<tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
+
+<tr>
+<td>1</td>
+<td>Лабораторная работа 1</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab1_PCPL">Открыть</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Лабораторная работа 2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab2_PCPL">Открыть</a></td>
+</tr>
+
+<tr>
+<td>3-4</td>
+<td>Лабораторные работы 3-4</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/lab3-4-PCPL">Открыть</a></td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+
 # Семестр 2
 
 <details>
