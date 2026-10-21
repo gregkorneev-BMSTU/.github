@@ -40,6 +40,12 @@
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
 
 <tr>
+<td> </td>
+<td>IDEF0</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Data-Models_IDEF0.git">Открыть</a></td>
+</tr>
+
+<tr>
 <td>1.2</td>
 <td>Лабораторная работа 1</td>
 <td><a href="https://github.com/gregkorneev-BMSTU/Data-Models_Lab1">Открыть</a></td>
