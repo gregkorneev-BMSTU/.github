@@ -5,7 +5,7 @@
 
 <td valign="top" width="50%">
 
-<h3 align="center">PCPL(https://github.com/gregkorneev-BMSTU/PCPL.git)</h3>
+<h3 align="center">(PCPL)[https://github.com/gregkorneev-BMSTU/PCPL.git]</h3>
 
 <table>
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
