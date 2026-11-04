@@ -58,6 +58,13 @@
 <td><a href="https://github.com/gregkorneev-BMSTU/Data-Models_Lab1.2">Открыть</a></td>
 </tr>
 
+
+<tr>
+<td>2.1</td>
+<td>Лабораторная работа 2.1</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Data-Models_Lab2.1">Открыть</a></td>
+</tr>
+
 </table>
 
 </td>
