@@ -66,6 +66,12 @@
 </tr>
 
 <tr>
+<td>2.2</td>
+<td>Лабораторная работа 2.2</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Data-Models_Lab2.2">Открыть</a></td>
+</tr>
+
+<tr>
 <td>3</td>
 <td>Лабораторная работа 3</td>
 <td><a href="https://github.com/gregkorneev-BMSTU/Data-Models_Lab3">Открыть</a></td>
